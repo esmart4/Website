@@ -1,0 +1,61 @@
+
+h4 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    color: #572f59;
+    font-style: bold;
+}
+a {
+    color:#47324d;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+    /* font-weight: bold;
+    font-size: 18px; */
+}
+a:visited{
+    color: rgb(59, 158, 158);
+}
+.resumeListHeading{
+    font-weight: bolder;
+    font-style: normal;
+
+}
+li {
+    font-size: 14px;
+    font-weight: normal;
+    font-style: italic;
+    text-decoration: none;
+}
+.underline {text-decoration: underline;}
+
+.bold {font-weight: 200;}
+
+.justify {text-align: justify;}
+
+.homebg {
+        background-image: url(../images/pxfuel.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: 100%;
+}
+
+.box1{
+border-width: 1px;
+border-style: solid;
+border-color: red;
+
+border: 1px solid white;
+}
+.box2{
+    padding: 5px;
+}
+.box3{
+    margin: 50px;
+}
+.container{
+    width: 400;
+    height: 225;
+}
